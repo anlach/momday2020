@@ -29,7 +29,7 @@ theme: minima
 # Images
 defaults:
   - scope:
-      path: "img/"
+      path: "assets/img/"
     values:
       image: true
 # Exclude from processing.
